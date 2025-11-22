@@ -23,15 +23,7 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
 
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
 !车
 !餐
 
@@ -111,3 +103,45 @@ ai
 宇宙
 飞船
 航空
+
+GPT
+OpenAI
+Gemini
+Google DeepMind
+Claude
+Anthropic
+Grok
+xAI
+Llama
+Meta
+Mistral
+Mistral AI
+Command R+
+Cohere
+Pi
+Inflection
+通义千问
+阿里巴巴
+文心一言
+百度
+混元
+腾讯
+盘古
+华为
+智谱
+清华智谱
+豆包
+字节跳动
+Moonshot
+月之暗面
+DeepSeek
+深度求索
+Stable Diffusion
+Stability AI
+Flux.1
+Black Forest Labs
+即梦 
+Dreamina
+字节跳动
+Sora
+OpenAI
